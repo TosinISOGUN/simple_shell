@@ -3,13 +3,18 @@
 <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg" width="700" height="400" />
 </p>
 
-> This is an ALX collaboration project on Shell. We were tasked to create a simple shell that mimics the Bash shell.
+> This is an ALX collaboration project on Shell.
+> We were tasked to create a simple shell that mimics the Bash shell.
 > 
-> Our shell shall be called hsh.
+> Our shell shall be called `hsh`.
 ## Introduction
-This repository is a ALX Holberton School Project. The school project consisted in writing a shell like `sh` (Bourne Shell) by Stephen Bourne , in `C`, using a limited number of standard library functions, So Instead we used ower own function that we rewrited over the past three month [Here](https://github.com/TosinISOGUN/alx-low_level_programming)
+This repository is a ALX Holberton School Project. The school project consisted in writing a shell like `sh` (Bourne Shell) by Stephen Bourne , in `C`, using a limited number of standard library functions, so instead we used our own function that we rewrited over the past three month [Here.](https://github.com/TosinISOGUN/alx-low_level_programming)
 
-The goal in this project was to make us understand how a shell works. To single out some items: what is the environment, the difference between functions and system calls, how to create processes using `execve...`
+The goal in this project is to make us understand how a shell works.
+- To single out some core topics which includes;
+  - What is the environment?
+  - The difference between functions and system calls.
+  - How to create processes using `execve...`
 
 ## General Requirements
 <img src="https://alx-apply.hbtn.io/brand_alx/share_image_2019.jpg" width="300" height="100" />
@@ -204,14 +209,15 @@ $ ./hsh
 $ setenv NAME Poppy
 $ unsetenv NAME
 $ echo $NAME
-
 $
 ```
+**Thank you for going through our shell documentation.**
 
 ## AUTHORS
 
 ### 🤵🏼 Olaoluwa ISOGUN
 - [GitHub](https://github.com/OlaoluwaISOGUN)
+- [LinkedIn](https://www.linkedin.com/in/olaoluwa-isogun-31b602247)
 
 ### 🤵🏻‍ Oluwatomisin ISOGUN
 
