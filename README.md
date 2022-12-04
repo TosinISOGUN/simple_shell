@@ -17,7 +17,7 @@ The goal in this project is to make us understand how a shell works.
   - How to create processes using `execve...`
 
 ## General Requirements
-<img src="https://alx-apply.hbtn.io/brand_alx/share_image_2019.jpg" width="300" height="100" />
+<img src="https://github.com/TosinISOGUN/TosinISOGUN/blob/main/ALX.jpeg?raw=true" width="300" height="100" />
 
 - `README file`, at the root of the folder of the project is mandatory.
 - Allowed editors: `vi`, `vim`, `emacs`
